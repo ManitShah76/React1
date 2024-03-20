@@ -1,0 +1,98 @@
+.footer-10 {
+    color: black; 
+    background-color: #fff; 
+    padding: 60px 0;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .con {
+    /* background-color: #ba8075;  */
+    border-radius: 50px;
+    text-align: center;
+  }
+  
+  .con-info {
+    padding: 20px;
+  }
+  
+  .icon {
+    font-size: 24px;
+  }
+  
+  .text {
+    margin-top: 10px;
+    font-size: 16px;
+  }
+  
+  .footer-heading {
+    color: black; 
+  }
+  
+  .list-unstyled {
+    padding: 0;
+    list-style: none;
+  }
+  
+  /* .list-unstyled a {
+    /* color: #ccc;   */
+    /* text-decoration: none; 
+  } */
+  
+  /* .list-unstyled a:hover {
+    color: red; 
+  } */
+  
+  
+  .copyright {
+    font-size: 20px;
+  }
+
+  
+  .ftco-footer-social a {
+    font-size: 35px;
+  }
+  
+  [data-toggle="tooltip"] {
+    position: relative;
+  }
+  
+  [data-toggle="tooltip"]:before {
+    content: "";
+    display: none;
+    position: absolute;
+    border-width: 6px;
+    border-style: solid;
+    border-color: transparent;
+  }
+  
+  [data-toggle="tooltip"]:hover:before {
+    display: block;
+  }
+  
+  /* [data-toggle="tooltip"][title="Twitter"]:before {
+    top: -12px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-top-color: #00aced; 
+  } */
+  
+  /* Facebook tooltip */
+  [data-toggle="tooltip"][title="whatsapp"]:before {
+    top: -12px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-top-color: green;
+  }
+  
+  /* Instagram tooltip */
+  [data-toggle="tooltip"][title="Instagram"]:before {
+    top: -12px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-top-color: #bc2a8d; 
+  }
+  

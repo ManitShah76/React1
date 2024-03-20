@@ -1,0 +1,24 @@
+{
+  "Users": [
+    {
+      "id": "585b",
+      "name": "Manit",
+      "email": "manit@gmail.com",
+      "password": "123",
+      "cpassword": "123"
+    },
+    {
+      "id": "a994",
+      "name": "Heet",
+      "email": "h@gmail.com",
+      "password": "1234",
+      "cpassword": "1234"
+    },
+    {
+      "id": "e865",
+      "name": "Dhruv",
+      "email": "dj@gmail.com",
+      "password": "123"
+    }
+  ]
+}
